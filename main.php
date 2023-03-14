@@ -1,8 +1,5 @@
 <?php
-require_once 'FamilleProduit.php';
-require_once 'Produit.php';
-require_once 'Promotion.php';
-require_once 'LignePromotion.php';
+
 
 //le jeu d'essai ne porte que sur des produits alimentaires
 
